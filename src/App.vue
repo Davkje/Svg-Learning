@@ -13,7 +13,7 @@ import HomeComp from "./components/HomeComp.vue";
 <style lang="scss" scoped>
 .filter {
 	position: absolute;
-	background-color: #070723f1;
+	background-color: #040420f6;
 	width: 100vw;
 	height: 100vh;
 	mix-blend-mode: multiply;
